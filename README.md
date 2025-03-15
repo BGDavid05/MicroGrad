@@ -7,15 +7,15 @@ A simple yet powerful Neural Network Engine implemented in Python from scratch. 
 
 ## 🚀 Features
 
-+ 🔢 Custom Autograd Engine for backpropagation.
++  Custom Autograd Engine for backpropagation.
 
-+ 🔗 Value Class for tracking operations and gradients.
++  Value Class for tracking operations and gradients.
 
 + 🧠 Multi-Layer Perceptron (MLP) implementation.
 
-+ ⚡ ReLU Activation for non-linearity.
++  ReLU Activation for non-linearity.
 
-+ 🏗️ Modular Design with Neurons, Layers, and Models.
++  Modular Design with Neurons, Layers, and Models.
 
 ## 🛠️ Technologies Used
 
