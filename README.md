@@ -1,26 +1,26 @@
 # MicroGrad
 Mini Neural Network Project
 
-🤖 Neural Network Engine
+# 🤖 Neural Network Engine
 
 A simple yet powerful Neural Network Engine implemented in Python from scratch. This project provides a basic framework for automatic differentiation and building neural networks using custom classes.
 
-🚀 Features
+## 🚀 Features
 
-🔢 Custom Autograd Engine for backpropagation.
++ 🔢 Custom Autograd Engine for backpropagation.
 
-🔗 Value Class for tracking operations and gradients.
++ 🔗 Value Class for tracking operations and gradients.
 
-🧠 Multi-Layer Perceptron (MLP) implementation.
++ 🧠 Multi-Layer Perceptron (MLP) implementation.
 
-⚡ ReLU Activation for non-linearity.
++ ⚡ ReLU Activation for non-linearity.
 
-🏗️ Modular Design with Neurons, Layers, and Models.
++ 🏗️ Modular Design with Neurons, Layers, and Models.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-Python for the core implementation.
++ Python for the core implementation.
 
-NumPy for numerical operations.
++ NumPy for numerical operations.
 
-Matplotlib (planned) for visualization.
++ Matplotlib (planned) for visualization.
